@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Data outputs
+data/*.parquet
+data/extracted.csv
+data/transformed.parquet
+
+# Dagster local state
+dagster/.dagster/
+
+# Airflow cache
+airflow/dags/__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
