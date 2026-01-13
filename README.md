@@ -224,13 +224,13 @@ Follow the framework-specific READMEs:
 
 <ul>
     <li>
-        <a href="airflow/README.html">Apache Airflow Pipeline</a>
+        <a href="airflow/README.md">Apache Airflow Pipeline</a>
     </li>
     <li>
-        <a href="prefect/README.html">Prefect Pipeline</a>
+        <a href="prefect/README.md">Prefect Pipeline</a>
     </li>
     <li>
-        <a href="dagster/README.html">Dagster Pipeline</a>
+        <a href="dagster/README.md">Dagster Pipeline</a>
     </li>
 </ul>
 
